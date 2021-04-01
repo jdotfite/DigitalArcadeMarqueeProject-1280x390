@@ -4,3 +4,6 @@
 <img src="digital_marquee_ex.jpg" alt="Justin Fite Arcade Cabinets">
 <br>
 <img src="arcade/cabal.png" alt="cabal marquee">
+<img src="arcade/rthunder.png" alt="rolling thunder marquee">
+<img src="arcade/contra.png" alt="contra marquee">
+<img src="arcade/mpatrol.png" alt="moon patrol marquee">
